@@ -17,5 +17,5 @@ Estou explorando o ecossistema de segurança como um todo. Tenho interesse tanto
 
 ---
 📫 **Contato**
-* [LinkedIn](www.linkedin.com/in/eduardo-masceno-nascimento-047265321)
+* [LinkedIn](https://www.linkedin.com/in/eduardo-masceno-nascimento-047265321/)
 * [Email](mailto:mascenoeduardo@gmail.com)
