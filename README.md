@@ -10,9 +10,11 @@ Criei este perfil para documentar minha evolução em Cibersegurança. Meu objet
 * Wireshark e Nmap (para entender redes a fundo)
 
 📚 **Minha jornada de estudos**
+
 Atualmente sou bolsista da **Maratona CiberEducação Cisco**, focado nos cursos CCNA e CyberOps. Também já concluí a certificação profissional do Google.
 
 🎯 **Áreas de interesse**
+
 Estou explorando o ecossistema de segurança como um todo. Tenho interesse tanto na defesa e monitoramento (**Blue Team/SOC**) quanto na gestão de vulnerabilidades e offensive security (**Red Team**), sem deixar de lado a parte de governança (**GRC**).
 
 ---
