@@ -1,15 +1,16 @@
 ### Eduardo Masceno Nascimento
+> *❝[...] algo como o toque de midas.❞*
 
 Estudante de Sistemas de Informação e Jovem Aprendiz na área de TI em Vitória da Conquista - BA.
 
 Criei este perfil para documentar minha evolução em Cibersegurança. Meu objetivo aqui não é apenas guardar código, mas mostrar como estou aplicando na prática o que aprendo nos cursos e certificações.
 
-## 💻 Tech Stack & Ferramentas
+## 💻 Meu Arsenal Técnico
 
-* 🛡️ **Blue Team (Defesa):** Wireshark, Análise de Tráfego (Packet Sniffing), TCP/IP Deep Dive.
-* ⚔️ **Red Team (Ataque):** Kali Linux, Nmap (Network Mapper), Metasploit Framework, Vulnerability Scanning.
-* 🐍 **Code & Automação:** Python (Scripting/Sockets), Bash, Git/GitHub.
-* ☁️ **Infra:** VirtualBox, Linux Administration (Ubuntu/Debian).
+* 🛡️ **Defesa/Análise:** Wireshark, Análise de Tráfego, SIEM (Wazuh).
+* ⚔️ **Ataque/Pentest:** Kali Linux, Metasploit, Nmap, Vulnerability Scanning.
+* 🐍 **Código:** Python (Sockets/Scripting), Bash, Git.
+* ☁️ **Infra:** VirtualBox, Linux (Administração).
 
 📚 **Minha jornada de estudos**
 
@@ -22,4 +23,4 @@ Estou explorando o ecossistema de segurança como um todo. Tenho interesse tanto
 ---
 📫 **Contato**
 * [LinkedIn](https://www.linkedin.com/in/eduardo-masceno-047265321/)
-* [Email](mailto:mascenoeduardo@gmail.com)
+* [mascenoeduardo@gmail.com](mailto:mascenoeduardo@gmail.com)
