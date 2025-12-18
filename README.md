@@ -1,7 +1,7 @@
 ### Eduardo Masceno Nascimento
 > *❝[...] algo como o toque de midas.❞*
 
-Estudante de Sistemas de Informação | Jovem Aprendiz em TI | Foco em Blue Team & Red Team
+Analista de Segurança da Informação | Infraestrutura de TI | Especialista em Defesa e Monitoramento de SOC
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eduardo-masceno-047265321/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mascenoeduardo@gmail.com)
