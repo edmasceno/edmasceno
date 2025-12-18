@@ -9,7 +9,7 @@ Analista de Segurança da Informação | Infraestrutura de TI | Especialista em 
 ---
 
 ### 🛡️ Sobre Mim
-Transformo teoria em **execução**. Não apenas estudo Cibersegurança; construo laboratórios, simulo ataques e implemento defesas. Minha experiência em Suporte Técnico me deu a base de *troubleshooting* necessária para entender como sistemas falham — e como protegê-los.
+Converto teoria em resiliência cibernética. Trabalho na interseção entre infraestrutura e segurança, criando laboratórios que replicam vetores de ataque reais para estabelecer defesas sólidas. Minha experiência em análise de suporte e redes me deu uma perspectiva analítica aprofundada sobre vulnerabilidades em endpoints, gerenciamento de identidades (IAM) e conformidade em contextos empresariais.
 
 ### 🏆 Certificações & Formação
 ![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=flat-square&logo=google)
@@ -18,10 +18,10 @@ Transformo teoria em **execução**. Não apenas estudo Cibersegurança; constru
 
 ### 💻 Meu Arsenal Técnico
 
-* 🛡️ **Defesa/Análise:** Wireshark, Análise de Tráfego, SIEM (Wazuh).
-* ⚔️ **Ataque/Pentest:** Kali Linux, Metasploit, Nmap, Vulnerability Scanning.
-* 🐍 **Código:** Python (Sockets/Scripting), Bash, Git.
-* ☁️ **Infra:** VirtualBox, Linux (Administração), Active Directory.
+* 🛡️ **Defesa & SOC:** SIEM (Wazuh & Estudos em IBM QRadar), Framework MITRE ATT&CK, Cyber Kill Chain, Análise de Tráfego (Wireshark).
+* 🔐 **IAM & Infra:** Gestão de Identidades (Active Directory/IAM), Segurança de Redes (TCP/IP, VPN), Windows Server, Linux Administration.
+* 🐍 **Automação:** Python Scripting (Sockets/Segurança), Bash, Git.
+* ⚔️ **Segurança Ofensiva (Complementar):** Vulnerability Assessment, Web Hacking (OWASP Top 10), Kali Linux.
 
 ### 🚀 Destaques do Portfólio (Projetos Práticos)
 Não acredite apenas na minha palavra. Veja o código e a documentação:
