@@ -26,7 +26,7 @@ Converto teoria em resiliência cibernética. Trabalho na interseção entre inf
 ### 🚀 Destaques do Portfólio (Projetos Práticos)
 Não acredite apenas na minha palavra. Veja o código e a documentação:
 
-* 🏢 **[Invasão de Active Directory (Kerberoasting)](https://github.com/d-oppelganger/active-directory-hacking)**: Bypass de autenticação e extração de hashes.
+* 🏢 **[QRadar SIEM: Deployment & Troubleshooting](https://github.com/edmasceno/qradar-siem-homelab)**: Implementação completa com resolução de conflitos de licença legacy e ingestão de logs Windows via PowerShell.
 * 🛡️ **[SOC com Wazuh (SIEM)](https://github.com/d-oppelganger/wazuh-soc-lab)**: Monitoramento em tempo real e detecção de ataques SSH.
 * 🕷️ **[Web Hacking (SQL Injection)](https://github.com/d-oppelganger/web-hacking-burpsuite)**: Exploração de falhas em aplicações modernas.
 
