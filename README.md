@@ -9,7 +9,7 @@ Analista de Segurança da Informação | Infraestrutura de TI | Especialista em 
 ---
 
 ### 🛡️ Sobre Mim
-Converto teoria em resiliência cibernética. Trabalho na interseção entre infraestrutura e segurança, criando laboratórios que replicam vetores de ataque reais para estabelecer defesas sólidas. Minha experiência em análise de suporte e redes me deu uma perspectiva analítica aprofundada sobre vulnerabilidades em endpoints, gerenciamento de identidades (IAM) e conformidade em contextos empresariais.
+Curioso por natureza e entusiasta de Blue Team por escolha. Minha experiência em redes me dá a base, mas o que me move é o desafio de transformar telemetria bruta em inteligência de segurança. Se tem um serviço falhando ou um log desconhecido, é lá que você vai me encontrar.
 
 ### 🏆 Certificações & Formação
 ![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=flat-square&logo=google)
