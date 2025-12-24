@@ -27,8 +27,8 @@ Converto teoria em resiliência cibernética. Trabalho na interseção entre inf
 Não acredite apenas na minha palavra. Veja o código e a documentação:
 
 * 🏢 **[QRadar SIEM: Deployment & Troubleshooting](https://github.com/edmasceno/qradar-siem-homelab)**: Implementação completa com resolução de conflitos de licença legacy e ingestão de logs Windows via PowerShell.
-* 🛡️ **[SOC com Wazuh (SIEM)](https://github.com/d-oppelganger/wazuh-soc-lab)**: Monitoramento em tempo real e detecção de ataques SSH.
-* 🕷️ **[Web Hacking (SQL Injection)](https://github.com/d-oppelganger/web-hacking-burpsuite)**: Exploração de falhas em aplicações modernas.
+* 🛡️ **[SOC com Wazuh (SIEM)](https://github.com/edmasceno/wazuh-soc-lab)**: Monitoramento em tempo real e detecção de ataques SSH.
+* 🕷️ **[Web Hacking (SQL Injection)](https://github.com/edmasceno/web-hacking-burpsuite)**: Exploração de falhas em aplicações modernas.
 
 ---
 *Focado em construir uma carreira sólida em Cibersegurança.*
