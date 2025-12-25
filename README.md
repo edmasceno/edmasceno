@@ -26,9 +26,9 @@ Curioso por natureza e entusiasta de Blue Team por escolha. Minha experiência e
 ### 🚀 Destaques do Portfólio (Projetos Práticos)
 Não acredite apenas na minha palavra. Veja o código e a documentação:
 
-* 🏢 **[QRadar SIEM: Deployment & Troubleshooting](https://github.com/edmasceno/qradar-siem-homelab)**: Implementação completa com resolução de conflitos de licença legacy e ingestão de logs Windows via PowerShell.
-* 🛡️ **[SOC com Wazuh (SIEM)](https://github.com/edmasceno/wazuh-soc-lab)**: Monitoramento em tempo real e detecção de ataques SSH.
-* 🕷️ **[Web Hacking (SQL Injection)](https://github.com/edmasceno/web-hacking-burpsuite)**: Exploração de falhas em aplicações modernas.
+* 🏢 **[Active Directory Attack & Detection (QRadar SIEM)](https://github.com/edmasceno/AD-Attack-Defense-QRadar-Lab/)**: Simulação de ataques sofisticados (NTDS Dumping, Pass-the-Hash) e engenharia de detecção. Enfatiza-se a resolução de lacunas de visibilidade do Windows por meio de telemetria personalizada utilizando a análise XML do PowerShell. 
+* 🛡️ **[QRadar SIEM: Deployment & Troubleshooting](https://github.com/edmasceno/qradar-siem-homelab)**: Implementação completa com resolução de conflitos de licença legacy e ingestão de logs Windows via PowerShell.
+* 🕷️ **[SOC com Wazuh (SIEM)](https://github.com/edmasceno/wazuh-soc-lab)**: Monitoramento em tempo real e detecção de ataques SSH.
 
 ---
 *Focado em construir uma carreira sólida em Cibersegurança.*
