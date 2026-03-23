@@ -9,7 +9,7 @@ Analista de Segurança da Informação | SOC & Blue Team Operations | Identity S
 ---
 
 ### 🛡️ Sobre Mim
-Curioso por natureza e focado na linha de frente do Blue Team. [cite_start]Minha base em infraestrutura me permite entender a rede, mas minha especialização em SOC me permite defendê-la[cite: 5, 11]. Acredito que o futuro da defesa está na união entre fundamentos sólidos e o uso estratégico de IA para antecipar ameaças.
+Curioso por natureza e focado na linha de frente do Blue Team. Minha base em infraestrutura me permite entender a rede, mas minha especialização em SOC me permite defendê-la. Acredito que o futuro da defesa está na união entre fundamentos sólidos e o uso estratégico de IA para antecipar ameaças.
 
 ### 🏆 Certificações & Formação
 ![IBSEC](https://img.shields.io/badge/IBSEC-Analista_SOC_(Essencial_%26_Fundamentos)-yellow?style=flat-square&logo=securitymetrics)
