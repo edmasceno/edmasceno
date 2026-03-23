@@ -1,5 +1,5 @@
 ### Eduardo Masceno Nascimento
-> *❝Algo como o toque de midas.❞*
+> *❝Transformando telemetria bruta em inteligência de defesa.❞*
 
 Analista de Segurança da Informação | SOC & Blue Team Operations | Identity Security (IAM) | Pesquisador em IA para Defesa
 
@@ -15,6 +15,7 @@ Curioso por natureza e focado na linha de frente do Blue Team. Minha base em inf
 ![IBSEC](https://img.shields.io/badge/IBSEC-Analista_SOC_(Essencial_%26_Fundamentos)-yellow?style=flat-square&logo=securitymetrics)
 ![Cisco](https://img.shields.io/badge/Cisco-CyberOps_Associate_|_CCNA-1BA0D7?style=flat-square&logo=cisco)
 ![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=flat-square&logo=google)
+
 * **Bolsista Maratona CiberEducação Cisco** (Selecionado por mérito técnico).
 * **Hackers do Bem** (Programa de formação em Cibersegurança).
 
@@ -23,7 +24,7 @@ Curioso por natureza e focado na linha de frente do Blue Team. Minha base em inf
 * 🛡️ **Defesa & SOC:** Operação de SIEM (Wazuh & IBM QRadar), Detecção Comportamental, Análise de Logs, Incident Response (IR) e Threat Hunting.
 * 🤖 **IA & Inovação:** Engenharia de Prompt para Cibersegurança, Auditoria de código via IA e automação defensiva.
 * 🔐 **IAM & Infra:** Gestão de Identidades (Active Directory), Princípio do Privilégio Mínimo, Segurança de Redes (TCP/IP, VPN) e Hardening de sistemas Windows/Linux.
-* [cite_start]🐍 **Automação:** Python Scripting (Segurança), Bash, Git[cite: 12].
+* 🐍 **Automação:** Python Scripting (Segurança), Bash, Git.
 
 ### 🚀 Projetos de Destaque (Mão na Massa)
 
