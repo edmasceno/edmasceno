@@ -13,7 +13,7 @@ Uso minha base em redes e sistemas para entender o caminho do ataque e aplicar a
 ### 🏆 Certificações & Formação
 <p align="left">
   <img src="https://img.shields.io/badge/IBSEC-Analista_SOC_(Essencial_%26_Fundamentos)-yellow?style=flat-square&logo=securitymetrics&logoColor=black" alt="IBSEC Badge">
-  <img src="https://img.shields.io/badge/Cisco-CyberOps_Associate_|_CyberOps_Associate_&_CCNA-007acc?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Badge">
+  <img src="https://img.shields.io/badge/Cisco-CyberOps_Associate_|_CCNA-007acc?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Badge">
   <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Badge">
 </p>
 
