@@ -1,7 +1,7 @@
 ### Eduardo Masceno Nascimento
 > *❝Algo como o toque de Midas.❞*
 
-**Analista de Segurança & Infraestrutura | Blue Team Operations | IAM**
+**Analista de Segurança & Infraestrutura | Blue Team Operations | SIEM | IAM**
 
 Atualmente focado em Operações de SOC e Segurança de Identidade. Unindo o background técnico de infraestrutura com a especialização em defesa ativa e resposta a incidentes. Acadêmico de Sistemas de Informação na UNEX.
 
