@@ -1,37 +1,34 @@
-### Eduardo Masceno Nascimento
-> *❝Algo como o toque de midas.❞*
+### Eduardo Masceno
+> *❝Algo como o toque de Midas.❞*
 
-Analista de Segurança da Informação | SOC & Blue Team Operations | Identity Security (IAM) | Pesquisador em IA para Defesa
+**Analista de Segurança & Infraestrutura | Blue Team Operations | IAM**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eduardo-masceno/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mascenoeduardo@gmail.com)
+Atualmente focado em Operações de SOC e Segurança de Identidade. Unindo o background técnico de infraestrutura (Grupo Dass) com a especialização em defesa ativa e resposta a incidentes. Acadêmico de Sistemas de Informação na UNEX.
 
 ---
 
-### 🛡️ Sobre Mim
-Curioso por natureza e focado na linha de frente do Blue Team. Minha base em infraestrutura me permite entender a rede, mas minha especialização em SOC me permite defendê-la. Acredito que o futuro da defesa está na união entre fundamentos sólidos e o uso estratégico de IA para antecipar ameaças.
+### 🛡️ No que foco hoje
+Uso minha base em redes e sistemas para entender o caminho do ataque e aplicar a defesa onde ela realmente importa. Acredito na automação e no uso de IA como multiplicadores de força para o analista, não como substitutos do fundamento técnico.
 
 ### 🏆 Certificações & Formação
-![IBSEC](https://img.shields.io/badge/IBSEC-Analista_SOC_(Essencial_%26_Fundamentos)-yellow?style=flat-square&logo=securitymetrics)
-![Cisco](https://img.shields.io/badge/Cisco-CyberOps_Associate_|_CCNA-1BA0D7?style=flat-square&logo=cisco)
-![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=flat-square&logo=google)
+* **Analista SOC (Fundamentos & Essencial)** – IBSEC
+* **Cisco CyberOps Associate & CCNA** – Bolsista Maratona CiberEducação
+* **Google Cybersecurity Professional**
+* **Hackers do Bem** – Em formação
 
-* **Bolsista Maratona CiberEducação Cisco** (Selecionado por mérito técnico).
-* **Hackers do Bem** (Programa de formação em Cibersegurança).
+### 💻 Arsenal Técnico
+* **Defesa & SOC:** Operação de SIEM (Wazuh, QRadar), monitoramento comportamental, análise de logs e Incident Response.
+* **Infra & Identidade:** Administração de Active Directory, Hardening (Linux/Windows), Protocolos de rede (TCP/IP, VPN) e Privilégio Mínimo.
+* **Automação & IA:** Python e Bash para segurança, Engenharia de Prompt para defesa e automação de tarefas repetitivas.
 
-### 💻 Meu Arsenal Técnico
+### 🚀 Labs & Projetos (Mão na Massa)
 
-* 🛡️ **Defesa & SOC:** Operação de SIEM (Wazuh & IBM QRadar), Detecção Comportamental, Análise de Logs, Incident Response (IR) e Threat Hunting.
-* 🤖 **IA & Inovação:** Engenharia de Prompt para Cibersegurança, Auditoria de código via IA e automação defensiva.
-* 🔐 **IAM & Infra:** Gestão de Identidades (Active Directory), Princípio do Privilégio Mínimo, Segurança de Redes (TCP/IP, VPN) e Hardening de sistemas Windows/Linux.
-* 🐍 **Automação:** Python Scripting (Segurança), Bash, Git.
-
-### 🚀 Projetos de Destaque (Mão na Massa)
-
-* 🏢 **[WannaCry Malware Analysis & Detection (Wazuh)](https://github.com/edmasceno/wannacry-analysis-wazuh)**: Análise de comportamento do ransomware WannaCry em sandbox e criação de regras de detecção personalizadas.
-* 🛡️ **[Wazuh SOC Lab: Active Response](https://github.com/edmasceno/Wazuh-SOC-Lab-Active-Response)**: Implementação de resposta automática a ataques de Força Bruta (MITRE ATT&CK T1110).
-* 📡 **[AD Attack & Defense (QRadar SIEM)](https://github.com/edmasceno/AD-Attack-Defense-QRadar-Lab/)**: Engenharia de detecção para ataques em Active Directory (Kerberoasting, Lateral Movement).
-* 🐍 **[AV Evasion: Bypassing Defender with Python](https://github.com/edmasceno/av-evasion-python)**: Estudo sobre como vetores de ataque contornam defesas padrão para aprimorar estratégias de monitoramento.
+* 🏢 **[AD Attack & Defense (QRadar)](https://github.com/edmasceno/AD-Attack-Defense-QRadar-Lab/)**: Engenharia de detecção para Kerberoasting e Movimentação Lateral em ambiente Windows Server 2022.
+* 🛡️ **[Wazuh SOC Lab: Active Response](https://github.com/edmasceno/Wazuh-SOC-Lab-Active-Response)**: Implementação de contenção automática de Brute Force via script de firewall-drop.
+* 🦠 **[WannaCry Malware Analysis](https://github.com/edmasceno/wannacry-analysis-wazuh)**: Análise de comportamento em sandbox e criação de regras de detecção personalizadas.
+* 🐍 **[AV Evasion com Python](https://github.com/edmasceno/av-evasion-python)**: Estudo prático de injeção em memória e bypass de Windows Defender para aprimorar monitoramento de EDR.
 
 ---
-*Focado em construir uma carreira sólida e inovadora em Cibersegurança.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-masceno/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mascenoeduardo@gmail.com)
