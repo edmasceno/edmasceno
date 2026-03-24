@@ -1,5 +1,5 @@
 ### Eduardo Masceno Nascimento
-> *❝Transformando telemetria bruta em inteligência de defesa.❞*
+> *❝Algo como o toque de midas.❞*
 
 Analista de Segurança da Informação | SOC & Blue Team Operations | Identity Security (IAM) | Pesquisador em IA para Defesa
 
