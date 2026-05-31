@@ -1,43 +1,51 @@
-### Eduardo Masceno Nascimento
-> *❝Algo como o toque de Midas.❞*
+# Eduardo Masceno Nascimento
 
-**Analista de Segurança & Infraestrutura | Blue Team Operations | SIEM | IAM**
+> *"Something like the Midas touch."*
 
-Atualmente focado em Operações de SOC e Segurança de Identidade. Unindo o background técnico de infraestrutura com a especialização em defesa ativa e resposta a incidentes. Acadêmico de Sistemas de Informação na UNEX.
+### Technical Support & Infrastructure Analyst | Systems & Network Defense | Log Analysis & SQL
 
----
+I bridge the gap between robust IT infrastructure and data-driven technical support. By leveraging a deep understanding of networking protocols, enterprise operating systems (Linux/Windows Server), and advanced log analysis, I specialize in diagnosing complex system behaviors, identifying root causes, and auditing environment security. 
 
-### 🛡️ No que foco hoje
-Uso minha base em redes e sistemas para entender o caminho do ataque e aplicar a defesa onde ela realmente importa. Acredito na automação e no uso de IA como multiplicadores de força para o analista, não como substitutos do fundamento técnico.
-
-### 🏆 Certificações & Formação
-<p align="left">
-  <img src="https://img.shields.io/badge/IBSEC-Analista_SOC_(Essencial_%26_Fundamentos)-yellow?style=flat-square&logo=securitymetrics&logoColor=black" alt="IBSEC Badge">
-  <img src="https://img.shields.io/badge/Cisco-CyberOps_Associate_|_CCNA-007acc?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Badge">
-  <img src="https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Badge">
-</p>
-
-* **Analista SOC (Fundamentos & Essencial)** – IBSEC
-* **Cisco CyberOps Associate & CCNA** – Bolsista Maratona CiberEducação
-* **Google Cybersecurity Professional**
-* **Hackers do Bem** – Em formação
-* **UNEX** – Acadêmico de Sistemas de Informação
-
-### 💻 Arsenal Técnico
-* **Defesa & SOC:** Operação de SIEM (Wazuh, QRadar), monitoramento comportamental, análise de logs e Incident Response.
-* **Infra & Identidade:** Administração de Active Directory, Hardening (Linux/Windows), Protocolos de rede (TCP/IP, VPN) e Privilégio Mínimo.
-* **Automação & IA:** Python e Bash para segurança, Engenharia de Prompt para defesa e automação de tarefas repetitivas.
-
-### 🚀 Labs & Projetos (Mão na Massa)
-
-* 🏢 **[AD Attack & Defense (QRadar)](https://github.com/edmasceno/AD-Attack-Defense-QRadar-Lab/)**: Engenharia de detecção para Kerberoasting e Movimentação Lateral em ambiente Windows Server 2022.
-* 🛡️ **[Wazuh SOC Lab: Active Response](https://github.com/edmasceno/Wazuh-SOC-Lab-Active-Response)**: Implementação de contenção automática de Brute Force via script de firewall-drop.
-* 🦠 **[WannaCry Malware Analysis](https://github.com/edmasceno/wannacry-analysis-wazuh)**: Análise de comportamento em sandbox e criação de regras de detecção personalizadas.
-* 🐍 **[AV Evasion com Python](https://github.com/edmasceno/av-evasion-python)**: Estudo prático de injeção em memória e bypass de Windows Defender para aprimorar monitoramento de EDR.
+I strongly believe in automation (Python/Bash) and database queries (SQL) as force multipliers to optimize ticket queues, maintain tight SLAs, and transform raw logs into actionable technical intelligence.
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-masceno/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="mailto:mascenoeduardo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
-</p>
+## 🎯 Core Focus & Skills
+
+* **Systems & Troubleshooting:** Active Directory Management, Hardening (Linux/Windows Server), Registry Monitoring, and Enterprise OS Diagnostics.
+* **Data & Log Analytics:** SQL Queries (PostgreSQL/MySQL), Event Correlation, Log Analysis, and SIEM/SOC operations (Wazuh, IBM QRadar).
+* **Networking & Protocols:** Packet Analysis (Wireshark), TCP/IP Stack, VPNs, Routing/Switching, and Access Control (IAM/Least Privilege).
+* **Automation & Scripting:** Python and Bash for infrastructure tasks, routine automation, and system auditing.
+
+---
+
+## 🏆 Certifications & Education
+
+* **Analista SOC (Essentials & Foundations)** — IBSEC (Instituto Brasileiro de Cybersecurity)
+* **Cisco CyberOps Associate & CCNA** — Cisco Networking Academy (CiberEducação Scholarship)
+* **Google Cybersecurity Professional Certificate** — Google
+* **B.S. in Information Systems** — UNEX (Undergraduate Student)
+
+---
+
+## 🚀 Featured Labs & Hands-On Projects
+
+### 📊 [qradar-siem-homelab](https://github.com/edmasceno/qradar-siem-homelab)
+**Advanced SIEM Maintenance & Troubleshooting:** A hands-on project dedicated to server provisioning, deployment optimization, and resolving legacy license conflicts. Highlights deep CLI troubleshooting and critical service recovery using **psql (SQL)** queries.
+
+### 🛡️ [AD-Attack-Defense-QRadar-Lab](https://github.com/edmasceno/AD-Attack-Defense-QRadar-Lab)
+**Active Directory Log Analysis & Event Correlation:** Deployment of an enterprise environment using Windows Server 2022 and IBM QRadar. Focused on auditing domain controllers, parsing system logs, and diagnosing indicators of compromise (Credential Dumping and Lateral Movement).
+
+### 🎛️ [Wazuh-SOC-Lab-Active-Response](https://github.com/edmasceno/Wazuh-SOC-Lab-Active-Response)
+**SIEM Automation & Endpoint Telemetry:** Implementation of a complete centralized log management system using Wazuh SIEM/XDR. Configured automated firewall-drop scripts and alert rules to respond to host-based anomalies and brute-force events in real time.
+
+### 🔬 [WannaCry Malware Analysis](https://github.com/edmasceno/wannacry-analysis-wazuh)
+**System Diagnostics & Behavioral Auditing:** Dynamic analysis of ransomware execution within a controlled sandbox environment. Focused on monitoring low-level system changes, registry alterations, and tracking process behavior logs via SIEM.
+
+---
+
+## 📩 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-masceno-047265321)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mascenoeduardo@gmail.com)
+
