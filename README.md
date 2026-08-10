@@ -1,7 +1,7 @@
 # Hi, I'm Eduardo Masceno 👋
 > *"Something like the Midas touch."*
 
-Information Systems student working in an industrial IT environment, currently transitioning into Cybersecurity with a focus on Malware Analysis, Reverse Engineering, and Penetration Testing.
+Computer Networks student working in an industrial IT environment, transitioning into Cybersecurity with a primary focus on Blue Team Operations, SIEM Detection, and Incident Handling. Leveraging offensive security research (AD Attacks, Malware Behavior, Evasion) to engineer stronger defensive controls.
 
 ---
 
@@ -14,7 +14,47 @@ Information Systems student working in an industrial IT environment, currently t
 ---
 
 ### 🛠️ Tech Stack & Tooling
-* **Security & Pentesting:** Nmap, Burp Suite, Wireshark, Metasploit, OWASP Top 10, Kali Linux, Any.Run
+* **SIEM, XDR & Monitoring:** IBM QRadar CE, Wazuh SIEM/XDR, Active Response
+* **Systems & Infra:** Linux (Ubuntu, Kali), Windows Server, Active Directory (AD), IAM / RBAC
+* **Network & Traffic Security:** Wireshark, Nmap, TCP/IP Analysis, Sockets
+* **Security Testing & Analysis:** Burp Suite, OWASP Juice Shop, Metasploit, Any.Run
+* **Scripting & Automation:** Python, Bash, SQL (PostgreSQL/MySQL)
+
+---
+
+### 🧪 Cybersecurity Labs & Repositories
+
+#### 🎯 SIEM, SOC Operations & Detection Engineering
+* **[qradar-siem-homelab](https://github.com/edmasceno/qradar-siem-homelab)**
+  * Advanced deployment and troubleshooting of IBM QRadar CE, including legacy license resolution and critical service recovery via psql and CLI.
+* **[AD-Attack-Defense-QRadar-Lab](https://github.com/edmasceno/AD-Attack-Defense-QRadar-Lab)**
+  * Active Directory threat detection in IBM QRadar focusing on Credential Dumping (MITRE T1003) and Lateral Movement (T1550).
+* **[Wazuh-SOC-Lab-Active-Response](https://github.com/edmasceno/Wazuh-SOC-Lab-Active-Response)**
+  * Complete SOC environment using Wazuh SIEM/XDR for real-time detection and automated Active Response against Brute Force attacks (MITRE T1110).
+* **[Wazuh-Mimikatz-Detection-Lab](https://github.com/edmasceno/Wazuh-Mimikatz-Detection-Lab)**
+  * Security monitoring and detection engineering rules for credential dumping activities via Mimikatz in Wazuh.
+
+#### 🛡️ Active Directory, Infrastructure & Traffic Analysis
+* **[active-directory-hacking](https://github.com/edmasceno/active-directory-hacking)**
+  * Practical simulation of Kerberoasting attacks in Windows Server & Kali Linux for active directory defense alignment.
+* **[wireshark-traffic-analysis](https://github.com/edmasceno/wireshark-traffic-analysis)**
+  * HTTP traffic interception, packet inspection, and analysis of data in transit security.
+
+#### 🔬 Malware Research & Offensive Security
+* **[wannacry-analysis-wazuh](https://github.com/edmasceno/wannacry-analysis-wazuh)**
+  * Behavioral analysis of WannaCry ransomware and detection rule mapping in Wazuh.
+* **[web-hacking-burpsuite](https://github.com/edmasceno/web-hacking-burpsuite)**
+  * Practical SQL Injection and XSS vulnerability exploitation against OWASP Juice Shop.
+* **[av-evasion-python](https://github.com/edmasceno/av-evasion-python)**
+  * Antivirus evasion (AV Bypass) research using Memory Injection technique in Python on Windows Server.
+* **[port-scanner-python](https://github.com/edmasceno/port-scanner-python)**
+  * Custom TCP port scanner developed in Python using raw TCP sockets.
+
+---
+
+### 📩 Contact & Links
+* **LinkedIn:** [Eduardo Masceno](https://www.linkedin.com/in/eduardo-masceno-047265321)
+* **Email:** [mascenoeduardo@gmail.com](mailto:mascenoeduardo@gmail.com)
 * **SIEM & Monitoring:** Wazuh, IBM QRadar
 * **Systems & Infra:** Linux (Kali, Ubuntu), Windows Server (2022), Active Directory (AD), IAM
 * **Languages & Databases:** Python, Bash Scripting, SQL (PostgreSQL/MySQL)
