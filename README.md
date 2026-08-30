@@ -1,7 +1,7 @@
 # Hi, I'm Eduardo Masceno 👋
 > *"Something like the Midas touch."*
 
-Computer Networks student working in an industrial IT environment, transitioning into Cybersecurity with a primary focus on Blue Team Operations, SIEM Detection, and Incident Handling. Leveraging offensive security research (AD Attacks, Malware Behavior, Evasion) to engineer stronger defensive controls.
+IT Infrastructure Analyst & Computer Networks Student. Focused on **Detection Engineering**, **Incident Response (DFIR)**, **SIEM Telemetry**, and **Security Automation**. I leverage offensive research (AD attack vectors, malware behavior, reverse engineering) to build automated, high-fidelity defensive capabilities.
 
 ---
 
@@ -13,12 +13,11 @@ Computer Networks student working in an industrial IT environment, transitioning
 
 ---
 
-### 🛠️ Tech Stack & Tooling
-* **SIEM, XDR & Monitoring:** IBM QRadar CE, Wazuh SIEM/XDR, Active Response
-* **Systems & Infra:** Linux (Ubuntu, Kali), Windows Server, Active Directory (AD), IAM / RBAC
-* **Network & Traffic Security:** Wireshark, Nmap, TCP/IP Analysis, Sockets
-* **Security Testing & Analysis:** Burp Suite, OWASP Juice Shop, Metasploit, Any.Run
-* **Scripting & Automation:** Python, Bash, SQL (PostgreSQL/MySQL)
+### 🛠️ Tech Stack & Security Tooling
+* **SIEM, Detection & Response:** Wazuh SIEM/XDR, IBM QRadar CE, Rule Tuning, Telemetry Analysis, Log Enrichment
+* **Incident Response & Malware Analysis:** Static Analysis, Java/Binary Reverse Engineering, IOC Extraction, Any.Run, Wireshark
+* **Systems, IAM & Networks:** Linux (Ubuntu, Kali), Windows Server, Active Directory (AD), TCP/IP Protocols, Network Security
+* **Scripting, Automation & AI:** Python, Bash, SQL, AI Prompting & Agentic Workflows for Security Triage
 
 ---
 
