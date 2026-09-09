@@ -23,6 +23,10 @@ IT Infrastructure Analyst & Computer Networks Student. Focused on **Detection En
 
 ### 🧪 Cybersecurity Projects & Labs
 
+
+* **[threat-vector-extractor](https://github.com/edmasceno/threat-vector-extractor)**
+  * Automated framework for static malware triage. Features deep IoC extraction, installer unpacking, V8 Bytenode hunting, and generates SIEM-ready JSON reports.
+
 * **[AD-Attack-Defense-QRadar-Lab](https://github.com/edmasceno/AD-Attack-Defense-QRadar-Lab)**
   * Active Directory threat detection inside IBM QRadar focusing on Credential Dumping (MITRE T1003) and Lateral Movement (T1550).
 
@@ -35,8 +39,6 @@ IT Infrastructure Analyst & Computer Networks Student. Focused on **Detection En
 * **[wannacry-analysis-wazuh](https://github.com/edmasceno/wannacry-analysis-wazuh)**
   * Behavioral analysis of WannaCry ransomware in sandbox environments and custom detection rule engineering in Wazuh.
 
-* **[wireshark-traffic-analysis](https://github.com/edmasceno/wireshark-traffic-analysis)**
-  * Packet-level network traffic inspection, HTTP interception, and security analysis of unencrypted data in transit.
 
 ---
 
