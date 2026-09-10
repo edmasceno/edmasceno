@@ -1,7 +1,7 @@
 # Hi, I'm Eduardo Masceno 👋
 > *"Something like the Midas touch."*
 
-IT Infrastructure Analyst & Computer Networks Student. Focused on **Detection Engineering**, **Incident Response (DFIR)**, **SIEM Telemetry**, and **Security Automation**. I leverage offensive research (AD attack vectors, malware behavior, reverse engineering) to build automated, high-fidelity defensive capabilities.
+IT Infrastructure Analyst & Information Systems Student at UNEX. Focused on **Detection Engineering**, **Incident Response (DFIR)**, **SIEM Telemetry**, and **Security Automation**. Bringing hands-on IT support and infrastructure experience from Vulcabras into building automated, high-fidelity defensive capabilities based on offensive research (AD attack vectors, malware behavior, reverse engineering).
 
 ---
 
@@ -17,15 +17,14 @@ IT Infrastructure Analyst & Computer Networks Student. Focused on **Detection En
 * **SIEM, Detection & Response:** Wazuh SIEM/XDR, IBM QRadar CE, Rule Tuning, Telemetry Analysis, Log Enrichment
 * **Incident Response & Malware Analysis:** Static Analysis, Java/Binary Reverse Engineering, IOC Extraction, Any.Run, Wireshark
 * **Systems, IAM & Networks:** Linux (Ubuntu, Kali), Windows Server, Active Directory (AD), TCP/IP Protocols, Network Security
-* **Scripting, Automation & AI:** Python, Bash, SQL, AI Prompting & Agentic Workflows for Security Triage
+* **Scripting, Automation & AI:** Python, Bash, SQL, **Google Gemini API**, AI Prompting & Agentic Workflows for Security Triage
 
 ---
 
 ### 🧪 Cybersecurity Projects & Labs
 
-
 * **[threat-vector-extractor](https://github.com/edmasceno/threat-vector-extractor)**
-  * Automated framework for static malware triage. Features deep IoC extraction, installer unpacking, V8 Bytenode hunting, and generates SIEM-ready JSON reports.
+  * Automated framework for static malware triage. Features deep IoC extraction, installer unpacking, V8 Bytenode hunting, and an **AI-driven CTI Engine (Gemini 3.6)** with **Deep Context** integration to analyze raw obfuscated scripts and generate SIEM-ready JSON SOC playbooks.
 
 * **[AD-Attack-Defense-QRadar-Lab](https://github.com/edmasceno/AD-Attack-Defense-QRadar-Lab)**
   * Active Directory threat detection inside IBM QRadar focusing on Credential Dumping (MITRE T1003) and Lateral Movement (T1550).
@@ -39,10 +38,8 @@ IT Infrastructure Analyst & Computer Networks Student. Focused on **Detection En
 * **[wannacry-analysis-wazuh](https://github.com/edmasceno/wannacry-analysis-wazuh)**
   * Behavioral analysis of WannaCry ransomware in sandbox environments and custom detection rule engineering in Wazuh.
 
-
 ---
 
 ### 📩 Contact & Links
 * **LinkedIn:** [Eduardo Masceno](https://www.linkedin.com/in/eduardo-masceno-047265321)
 * **Email:** [mascenoeduardo@gmail.com](mailto:mascenoeduardo@gmail.com)
-  
