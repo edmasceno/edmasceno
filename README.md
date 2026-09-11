@@ -1,7 +1,7 @@
 # Hi, I'm Eduardo Masceno 👋
 > *"Something like the Midas touch."*
 
-IT Infrastructure Analyst & Information Systems Student at UNEX. Focused on **Detection Engineering**, **Incident Response (DFIR)**, **SIEM Telemetry**, and **Security Automation**. Bringing hands-on IT support and infrastructure experience from Vulcabras into building automated, high-fidelity defensive capabilities based on offensive research (AD attack vectors, malware behavior, reverse engineering).
+IT Infrastructure Analyst & Computer Networks Student. Focused on **Detection Engineering**, **Incident Response (DFIR)**, **SIEM Telemetry**, and **Security Automation**. Bringing hands-on IT support and infrastructure experience from Vulcabras into building automated, high-fidelity defensive capabilities based on offensive research (AD attack vectors, malware behavior, reverse engineering).
 
 ---
 
