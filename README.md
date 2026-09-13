@@ -23,7 +23,7 @@ IT Infrastructure Technician & Computer Networks Student. Focused on **Detection
 
 ### 🧪 Cybersecurity Projects & Labs
 
-* **[threat-vector-extractor](https://github.com/edmasceno/threat-vector-extractor)**
+* **[black-ant-framework](https://github.com/edmasceno/threat-vector-extractor)**
   * Automated framework for static malware triage. Features deep IoC extraction, installer unpacking, V8 Bytenode hunting, and an **AI-driven CTI Engine (Gemini 3.6)** with **Deep Context** integration to analyze raw obfuscated scripts and generate SIEM-ready JSON SOC playbooks.
 
 * **[AD-Attack-Defense-QRadar-Lab](https://github.com/edmasceno/AD-Attack-Defense-QRadar-Lab)**
