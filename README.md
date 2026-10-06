@@ -1,7 +1,7 @@
 # Hi, I'm Eduardo Masceno 👋
 > *"Something like the Midas touch."*
 
-IT Infrastructure Technician & Information Systems Student. Focused on **Detection Engineering**, **Incident Response (DFIR)**, **SIEM Telemetry**, and **Security Automation**. Bringing hands-on corporate IT support and infrastructure experience into building automated, high-fidelity defensive capabilities based on offensive research (Cloud-Native kill chains, AD attack vectors, malware behavior, and reverse engineering).
+IT Infrastructure Technician & Network Computer Student. Focused on **Detection Engineering**, **Incident Response (DFIR)**, **SIEM Telemetry**, and **Security Automation**. Bringing hands-on corporate IT support and infrastructure experience into building automated, high-fidelity defensive capabilities based on offensive research (Cloud-Native kill chains, AD attack vectors, malware behavior, and reverse engineering).
 
 ---
 
